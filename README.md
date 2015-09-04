@@ -95,7 +95,7 @@ data from the `nginx.conf` provided with this project. Change the paths as neede
 
 3. Start `nginx` and verify that it is running.
 
-4. If you pretend to change configurations from `dss/global.conf` (and you probably should), create a file
+4. If you want to change any configuration variable at `dss/global.conf` (and you probably should), create a file
 named `local.conf` in the same place and set only the variables you want to change. E.g, to set the base
 directory to save files, add this to the file:
 
