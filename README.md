@@ -52,6 +52,7 @@ Usage:
     - Nginx-rtmp-module 0.9 or newer (older versions had a bug that did not tell when
       users stopped viewing the RTMP stream).
     - Depending of the system release used, you may ned to install Nginx’s dependencies.
+    
       For Ubuntu: sudo apt-get install libpcre3-dev build-essential libssl-dev
     
 3. ### [MongoDB][5]:
